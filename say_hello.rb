@@ -5,11 +5,9 @@ def say_hello(name = "Ruby Programmer")
   puts "Hello #{name}!"
 
 end
-
-def say_hello(name)
   
   puts "Hello #{name}!"
   
-  say_hello("Kent Beck")
-  
 end
+
+ say_hello("Kent Beck")
