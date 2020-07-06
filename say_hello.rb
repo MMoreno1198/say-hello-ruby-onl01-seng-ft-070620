@@ -6,7 +6,7 @@ def say_hello(name = "Ruby Programmer")
 
 end
 
-def say_hello(name = "Kent Beck")
+def say_hello(name)
   
   puts "Hello #{name}!"
   
